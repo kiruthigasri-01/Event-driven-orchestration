@@ -11,8 +11,8 @@ import re
 conn = psycopg2.connect(
     host="localhost",
     database="airflow_db",
-    user="postgres",
-    password="Dtsk2468@",
+    user="",
+    password="",
     port="5432"
 )
 
